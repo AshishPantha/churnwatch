@@ -1,3 +1,6 @@
+
+### Week 1
+
 ## Day 1
 
 What I learned:today was day 1, I created the project folder setup the jupyter notebook set venv environment as the kernel, initialized a git repo , locally , downloaded a csv from kaggle also registered there , created venv and instelled the packages
@@ -25,9 +28,9 @@ What confused me :
 
 What's next :
 
-## Day:
+## Day:4
 
-What I learned:
+What I learned:Confusion matrix , 
 
 What confused me :
 
